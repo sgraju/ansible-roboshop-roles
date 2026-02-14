@@ -1,2 +1,4 @@
 MONGODB_HOST: mongoddb.sgrdevsecops.fun
 REDIS_HOST: redis.sgrdevsecops.fun
+CATALOGUE_HOST: mongoddb.sgrdevsecops.fun
+CART_HOST: redis.sgrdevsecops.fun
